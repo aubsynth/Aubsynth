@@ -1300,7 +1300,7 @@ function Update-ComboBox
 #endregion
 
 
-Import-Module "C:\Program Files\Aubsynth\Audio Select\AudioDeviceCmdlets.dll"
+Import-Module "C:\Program Files\Aubsynth\Oculus AudioPlus\AudioDeviceCmdlets.dll"
 
 
 $array2 = @()
@@ -1361,8 +1361,8 @@ $buttonStopOculusService_Click={
 	Stop-Service OVRService
 }
 ]]></Code>
-  <Mode>0</Mode>
+  <Mode>1</Mode>
   <Assemblies>
-    <Assembly>AudioDeviceCmdlets, Version=3.0.0.0, Culture=neutral, PublicKeyToken=null|C:\Users\Paul\OneDrive\Code\Powershell Studio\Projects\Audio Select\AudioDeviceCmdlets.dll</Assembly>
+    <Assembly>AudioDeviceCmdlets, Version=3.0.0.0, Culture=neutral, PublicKeyToken=null|C:\Users\Paul\OneDrive\Code\Aubsynth\Oculus Audio+\AudioDeviceCmdlets.dll</Assembly>
   </Assemblies>
 </File>
