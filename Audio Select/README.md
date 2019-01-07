@@ -9,7 +9,7 @@ There are 2 ways of using this script. You can install the MSI file, which will 
 
 If you do not want to install there is also a portable .exe that requires you to import the DLL permenantly. To use this method simply download the .exe (instead of the .msi) and [follow these steps](https://github.com/frgnca/AudioDeviceCmdlets) to "Import Cmdlet to PowerShell"
 
-
+### [Download Here](https://github.com/aubsynth/Aubsynth/tree/master/Audio%20Select/bin/x64)
 
 ## Acknowledgements
 I built this script myself using PowerShellStudio2018. The AudioDeviceCmdlets were provided by frgnca, repo located [here](https://github.com/frgnca/AudioDeviceCmdlets)
