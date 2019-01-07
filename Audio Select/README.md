@@ -12,4 +12,4 @@ If you do not want to install there is also a portable .exe that requires you to
 ### [Download Here](https://github.com/aubsynth/Aubsynth/tree/master/Audio%20Select/bin/x64)
 
 ## Acknowledgements
-I built this script myself using PowerShellStudio2018. The AudioDeviceCmdlets were provided by frgnca, repo located [here](https://github.com/frgnca/AudioDeviceCmdlets)
+I built this script myself using PowerShellStudio2018. The AudioDeviceCmdlets.dll were provided by frgnca, repo located [here](https://github.com/frgnca/AudioDeviceCmdlets)
