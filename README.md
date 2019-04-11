@@ -5,7 +5,7 @@ This small application was built to make using the Oculus Rift a bit easlier to 
 
 
 ## How to install
-There are 2 ways of using this script. You can install the MSI file, which will copy the .exe automatically to your program files folder, as well as copy the necessary DLL file. The script will import the DLL automatically with this method. 
+There are 2 ways of using this script. You can install the MSI file, which will copy the .exe automatically to your program files folder, as well as copy the necessary DLL file. The script will import the DLL automatically with this method. Once installed the exe can be moved anywhere on the computer. 
 
 If you do not want to install there is also a portable .exe that requires you to import the DLL permenantly. To use this method simply download the .exe (instead of the .msi) and [follow these steps](https://github.com/frgnca/AudioDeviceCmdlets) to "Import Cmdlet to PowerShell"
 
